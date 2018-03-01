@@ -26,3 +26,5 @@ $ python ascii_drawing.py img2.jpg **5 3**
 $ python ascii_drawing.py img3.jpg **5 3**
 
 The examples in this repository used free stock photos from [Pexels](https://www.pexels.com/search/portrait/).
+
+![Screenshot](outputimg2.jpg)
